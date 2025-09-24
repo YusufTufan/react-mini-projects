@@ -37,6 +37,10 @@ Explores how to add interactivity to an application. This project shows how to m
 -   **Key Concepts:** `State`, `useState Hook`, `Event Handling`
 
 ---
+### 🌐 04 - [Using an API with React](./04-using-an-api-with-react/)
+A project that fetches, displays, and interacts with data from a third-party API, covering asynchronous operations.
+
+-   **Key Concepts:** `useEffect`, `API Fetching`, `Async/Await`
 
 ## 🚀 How to Run a Project
 
