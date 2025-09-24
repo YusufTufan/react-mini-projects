@@ -1,102 +1,64 @@
-\# React Learning Journey
+# ⚛️ React Learning Journey
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-
-> A collection of foundational projects built while learning and mastering React. Each project focuses on a different core concept, building upon the last.
-
-
-
-This repository serves as a log of my progress and hands-on practice with the React library. The projects are structured to isolate and demonstrate specific features and patterns in modern web development.
-
-
+> A collection of foundational projects built while learning and mastering React. This repository serves as a log of my progress and hands-on practice with the React library.
 
 ---
 
+## 💻 Projects
 
+This repository contains a series of standalone projects, each designed to isolate and demonstrate a core concept of modern web development with React.
 
-\## Projects Overview
+<br>
 
+### 🚀 01 - [Creating Content with JSX](./01-creating-with-jsx/)
 
+A fundamental introduction to creating dynamic content and UIs using JSX syntax. This project covers the basics of rendering elements and embedding expressions within markup.
 
-Here is a list of the projects included in this repository. You can navigate to each project's directory to view its source code and run it locally.
-
-
-
-| # | Project Name                        | Description                                                                    | Core Concepts                        |
-
-|---|-------------------------------------|--------------------------------------------------------------------------------|--------------------------------------|
-
-| 1 | \[Creating Content with JSX]\[p1]     | A fundamental introduction to creating dynamic content using JSX syntax.       | `JSX`, `Expressions`, `Rendering`      |
-
-| 2 | \[Building with Reusable Components]\[p2] | Focuses on breaking down the UI into isolated, reusable components via props.  | `Components`, `Props`, `Composition`   |
-
-| 3 | \[State: How to Change Your App]\[p3]   | Explores adding interactivity by managing component state with the `useState` hook. | `State`, `useState`, `Events`        |
-
-
-
-
-
-\[p1]: /01-creating-with-jsx
-
-\[p2]: /02-reusable-components
-
-\[p3]: /03-managing-state
-
-
+-   **Key Concepts:** `JSX`, `Expressions in JSX`, `Rendering`
 
 ---
 
+### ⚙️ 02 - [Building with Reusable Components](./02-reusable-components/)
 
+This project focuses on a core principle of React: breaking down the UI into isolated, reusable components. It demonstrates how to pass data between components using props.
 
-\## How to Run a Project
+-   **Key Concepts:** `Components`, `Props`, `Composition`
 
+---
 
+### ⚡️ 03 - [State: How to Change Your App](./03-managing-state/)
 
-Each project is a standalone React application. To run any of the projects locally, follow these steps:
+Explores how to add interactivity to an application. This project shows how to manage component-level state with the `useState` hook and respond to user events.
 
+-   **Key Concepts:** `State`, `useState Hook`, `Event Handling`
 
+---
 
-1\.  \*\*Clone the repository:\*\*
+## 🚀 How to Run a Project
 
-&nbsp;   ```sh
+Each project is a standalone application. To run one locally, follow these steps:
 
-&nbsp;   git clone \[https://github.com/](https://github.com/)\[KullaniciAdin]/react-practice-hub.git
+1.  **Clone the repository:**
+    ```sh
+    git clone [https://github.com/YusufTufan/react-mini-projects.git](https://github.com/YusufTufan/react-mini-projects.git)
+    ```
 
-&nbsp;   ```
+2.  **Navigate to a project directory:**
+    ```sh
+    cd react-mini-projects/01-creating-with-jsx
+    ```
 
+3.  **Install dependencies:**
+    ```sh
+    npm install
+    ```
 
-
-2\.  \*\*Navigate to the project directory:\*\*
-
-&nbsp;   ```sh
-
-&nbsp;   cd react-practice-hub/\[project-folder-name]
-
-&nbsp;   # Example: cd react-practice-hub/01-creating-with-jsx
-
-&nbsp;   ```
-
-
-
-3\.  \*\*Install dependencies:\*\*
-
-&nbsp;   ```sh
-
-&nbsp;   npm install
-
-&nbsp;   ```
-
-
-
-4\.  \*\*Start the development server:\*\*
-
-&nbsp;   ```sh
-
-&nbsp;   npm start
-
-&nbsp;   ```
-
-
-
-This will run the app in development mode. Open \[http://localhost:3000](http://localhost:3000) to view it in your browser.
-
+4.  **Start the development server:**
+    ```sh
+    npm start
+    ```
+    The application will be running on `http://localhost:3000`.
