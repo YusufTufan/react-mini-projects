@@ -56,6 +56,8 @@ A two-part project that covers capturing user input with forms and then sending 
 
 -   **Key Concepts:** `Controlled Components`, `Form Events`, `POST/PUT Requests`, `Async/Await`
 
+---
+
 ## 🚀 How to Run a Project
 
 Each project is a standalone application. To run one locally, follow these steps:
