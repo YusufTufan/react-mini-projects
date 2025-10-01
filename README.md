@@ -56,6 +56,12 @@ A two-part project that covers capturing user input with forms and then sending 
 
 -   **Key Concepts:** `Controlled Components`, `Form Events`, `POST/PUT Requests`, `Async/Await`
 
+-   **Part 3: Global State with Context API**
+    -   Shows how to share state across the app without "prop drilling".
+    -   **Status:** ✅ Complete
+
+-   **Key Concepts:** `Forms`, `Controlled Components`, `API Requests`, `Async/Await`, `Context API`, `useContext Hook`, `Provider`
+
 ---
 
 ## 🚀 How to Run a Project
