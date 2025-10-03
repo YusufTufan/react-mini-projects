@@ -65,6 +65,11 @@ A two-part project that covers capturing user input with forms and then sending 
     -   **Status:** ✅ Complete
 -   **Key Concepts:** `Forms`, `API Requests`, `Context API`, `useState`, `useEffect`, `useReducer`, `useCallback`, `Custom Hooks`
 
+### 🗺️ 06 - [Custom Navigation and Routing](./06-custom-routing/)
+This project explores the core mechanics of client-side routing. It demonstrates how to build a custom routing system from scratch to create a Single Page Application (SPA) experience without relying on external libraries.
+
+-   **Key Concepts:** `Client-Side Routing`, `History API`, `SPA`, `Dynamic Components`
+
 ---
 
 ## 🚀 How to Run a Project
