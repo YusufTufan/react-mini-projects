@@ -53,14 +53,17 @@ A two-part project that covers capturing user input with forms and then sending 
 -   **Part 2: Data Persistence with API Requests**
     -   Demonstrates how to send the data from our form back to an API, enabling features like creating or updating records.
     -   **Status:** ⚠️ In Progress
-
 -   **Key Concepts:** `Controlled Components`, `Form Events`, `POST/PUT Requests`, `Async/Await`
 
 -   **Part 3: Global State with Context API**
     -   Shows how to share state across the app without "prop drilling".
     -   **Status:** ✅ Complete
-
 -   **Key Concepts:** `Forms`, `Controlled Components`, `API Requests`, `Async/Await`, `Context API`, `useContext Hook`, `Provider`
+
+-   **Part 4: Deeper Dive into Hooks!**
+    -   Explores advanced state and side-effect management with hooks like `useReducer`, `useCallback`, and custom hooks.
+    -   **Status:** ✅ Complete
+-   **Key Concepts:** `Forms`, `API Requests`, `Context API`, `useState`, `useEffect`, `useReducer`, `useCallback`, `Custom Hooks`
 
 ---
 
