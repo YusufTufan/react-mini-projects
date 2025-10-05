@@ -17,7 +17,6 @@ This repository contains a series of standalone projects, each designed to isola
 ### 🚀 01 - [Creating Content with JSX](./01-creating-with-jsx/)
 
 A fundamental introduction to creating dynamic content and UIs using JSX syntax. This project covers the basics of rendering elements and embedding expressions within markup.
-
 -   **Key Concepts:** `JSX`, `Expressions in JSX`, `Rendering`
 
 ---
@@ -25,7 +24,6 @@ A fundamental introduction to creating dynamic content and UIs using JSX syntax.
 ### ⚙️ 02 - [Building with Reusable Components](./02-reusable-components/)
 
 This project focuses on a core principle of React: breaking down the UI into isolated, reusable components. It demonstrates how to pass data between components using props.
-
 -   **Key Concepts:** `Components`, `Props`, `Composition`
 
 ---
@@ -33,13 +31,11 @@ This project focuses on a core principle of React: breaking down the UI into iso
 ### ⚡️ 03 - [State: How to Change Your App](./03-managing-state/)
 
 Explores how to add interactivity to an application. This project shows how to manage component-level state with the `useState` hook and respond to user events.
-
 -   **Key Concepts:** `State`, `useState Hook`, `Event Handling`
 
 ---
 ### 🌐 04 - [Using an API with React](./04-using-an-api-with-react/)
 A project that fetches, displays, and interacts with data from a third-party API, covering asynchronous operations.
-
 -   **Key Concepts:** `useEffect`, `API Fetching`, `Async/Await`
 
 ---
@@ -65,11 +61,17 @@ A two-part project that covers capturing user input with forms and then sending 
     -   **Status:** ✅ Complete
 -   **Key Concepts:** `Forms`, `API Requests`, `Context API`, `useState`, `useEffect`, `useReducer`, `useCallback`, `Custom Hooks`
 
-### 🗺️ 06 - [Custom Navigation and Routing](./06-custom-routing/)
-This project explores the core mechanics of client-side routing. It demonstrates how to build a custom routing system from scratch to create a Single Page Application (SPA) experience without relying on external libraries.
+### 🗺️ 06 - [Routing and Advanced State Design](./06-routing-and-state-design/)
+A two-part module focusing on application architecture: first by building a custom client-side router, and then by exploring advanced state design patterns.
 
--   **Key Concepts:** `Client-Side Routing`, `History API`, `SPA`, `Dynamic Components`
+-   **Part 1: Custom Navigation and Routing**
+    -   Explores the core mechanics of building a router from scratch for a SPA experience.
+    -   **Status:** ✅ Complete
 
+-   **Part 2: Mastering the State Design Process**
+    -   Dives into best practices for structuring and managing complex application state.
+    -   **Status:** ✅ Complete
+-   **Key Concepts:** `Client-Side Routing`, `SPA`, `State Design Patterns`, `State Colocation`, `useReducer`, `Component Composition`
 ---
 
 ## 🚀 How to Run a Project
