@@ -71,7 +71,10 @@ A two-part module focusing on application architecture: first by building a cust
 -   **Part 2: Mastering the State Design Process**
     -   Dives into best practices for structuring and managing complex application state.
     -   **Status:** ✅ Complete
--   **Key Concepts:** `Client-Side Routing`, `SPA`, `State Design Patterns`, `State Colocation`, `useReducer`, `Component Composition`
+-   **Part 3: Practicing Props and State Design**
+    -   A practical session dedicated to reinforcing the concepts of component composition, prop drilling mitigation, and state colocation.
+    -   **Status:** ✅ Complete 
+-   **Key Concepts:** `Client-Side Routing`, `SPA`, `State Design Patterns`, `State Colocation`, `useReducer`, `Component Composition`, `Prop Drilling Mitigation`
 ---
 
 ## 🚀 How to Run a Project
