@@ -76,6 +76,7 @@ A two-part module focusing on application architecture: first by building a cust
     -   A practical session dedicated to reinforcing the concepts of component composition, prop drilling mitigation, and state colocation.
     -   **Status:** ✅ Complete 
 -   **Key Concepts:** `Client-Side Routing`, `SPA`, `State Design Patterns`, `State Colocation`, `useReducer`, `Component Composition`, `Prop Drilling Mitigation`
+
 ---
 
 ## 🚀 How to Run a Project
