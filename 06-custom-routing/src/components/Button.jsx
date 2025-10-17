@@ -1,7 +1,7 @@
 import className from "classnames";
 import { twMerge } from "tailwind-merge";
 
-const finalClassName = className("px-1.5",{
+const finalClassName = className ("px-1.5",{
     "bg-blue-500": true,
     "text-yellow-500": false,
 });
