@@ -84,6 +84,7 @@ A multi-part module focusing on application architecture: first by building a cu
     -   Focuses on abstracting the routing logic to create a versatile, reusable navigation component that can be easily integrated across the application.
     -   **Status:** ✅ Complete
 -   **Key Concepts:** `Reusable Components`, `Component Abstraction`, `Client-Side Routing`
+
 ---
 
 ## 🚀 How to Run a Project
