@@ -85,6 +85,11 @@ A multi-part module focusing on application architecture: first by building a cu
     -   **Status:** ✅ Complete
 -   **Key Concepts:** `Reusable Components`, `Component Abstraction`, `Client-Side Routing`
 
+-   **Part 5: Creating Portals with ReactDOM**
+    -   Explores the use of React Portals to render children into a different part of the DOM tree, which is essential for components like modals, tooltips, and popovers.
+    -   **Status:** ✅ Complete
+    -   **Key Concepts:** `React Portals`, `ReactDOM.createPortal()`, `Modal Implementation`, `DOM Structure Management`
+
 ---
 
 ## 🚀 How to Run a Project
