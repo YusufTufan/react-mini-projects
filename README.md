@@ -43,23 +43,24 @@ A project that fetches, displays, and interacts with data from a third-party API
 ### 🗂️ 05 - [Handling Forms & API Data](./05-forms-and-api-data/)
 A two-part project that covers capturing user input with forms and then sending that data to an API to be saved.
 
--   **Part 1: How to Handle Forms**
-    -   Focuses on creating interactive forms to capture user input, covering controlled components and submission handling.
-    -   **Status:** ✅ Complete
--   **Part 2: Data Persistence with API Requests**
-    -   Demonstrates how to send the data from our form back to an API, enabling features like creating or updating records.
-    -   **Status:** ⚠️ In Progress
--   **Key Concepts:** `Controlled Components`, `Form Events`, `POST/PUT Requests`, `Async/Await`
--   **Part 3: Global State with Context API**
-    -   Shows how to share state across the app without "prop drilling".
-    -   **Status:** ✅ Complete
--   **Key Concepts:** `Forms`, `Controlled Components`, `API Requests`, `Async/Await`, `Context API`, `useContext Hook`, `Provider`
--   **Part 4: Deeper Dive into Hooks!**
-    -   Explores advanced state and side-effect management with hooks like `useReducer`, `useCallback`, and custom hooks.
-    -   **Status:** ✅ Complete
--   **Key Concepts:** `Forms`, `API Requests`, `Context API`, `useState`, `useEffect`, `useReducer`, `useCallback`, `Custom Hooks`
+-   **Part 1: How to Handle Forms**
+    -   Focuses on creating interactive forms to capture user input, covering controlled components and submission handling.
+    -   **Status:** ✅ Complete
 
----
+-   **Part 2: Data Persistence with API Requests**
+    -   Demonstrates how to send the data from our form back to an API, enabling features like creating or updating records.
+    -   **Status:** ⚠️ In Progress
+-   **Key Concepts:** `Controlled Components`, `Form Events`, `POST/PUT Requests`, `Async/Await`
+
+-   **Part 3: Global State with Context API**
+    -   Shows how to share state across the app without "prop drilling".
+    -   **Status:** ✅ Complete
+-   **Key Concepts:** `Forms`, `Controlled Components`, `API Requests`, `Async/Await`, `Context API`, `useContext Hook`, `Provider`
+
+-   **Part 4: Deeper Dive into Hooks!**
+    -   Explores advanced state and side-effect management with hooks like `useReducer`, `useCallback`, and custom hooks.
+    -   **Status:** ✅ Complete
+-   **Key Concepts:** `Forms`, `API Requests`, `Context API`, `useState`, `useEffect`, `useReducer`, `useCallback`, `Custom Hooks`
 
 ### 🗺️ 06 - [Routing and Advanced State Design](./06-routing-and-state-design/)
 A multi-part module focusing on application architecture: first by building a custom client-side router, then by exploring advanced state design patterns, and finally by perfecting component reusability.
@@ -68,14 +69,17 @@ A multi-part module focusing on application architecture: first by building a cu
     -   Explores the core mechanics of building a router from scratch for a SPA experience.
     -   **Status:** ✅ Complete
     -   **Key Concepts:** `Client-Side Routing`, `SPA`
+
 -   **Part 2: Mastering the State Design Process**
     -   Dives into best practices for structuring and managing complex application state.
     -   **Status:** ✅ Complete
     -   **Key Concepts:** `State Design Patterns`, `State Colocation`, `useReducer`
+
 -   **Part 3: Practicing Props and State Design**
     -   A practical session dedicated to reinforcing the concepts of component composition, prop drilling mitigation, and state colocation.
     -   **Status:** ✅ Complete
     -   **Key Concepts:** `Component Composition`, `Prop Drilling Mitigation`, `State Colocation`
+
 -   **Part 4: Making Navigation Reusable**
     -   Focuses on abstracting the routing logic to create a versatile, reusable navigation component that can be easily integrated across the application.
     -   **Status:** ✅ Complete
