@@ -68,23 +68,22 @@ A multi-part module focusing on application architecture: first by building a cu
 -   **Part 1: Custom Navigation and Routing**
     -   Explores the core mechanics of building a router from scratch for a SPA experience.
     -   **Status:** ✅ Complete
-    -   **Key Concepts:** `Client-Side Routing`, `SPA`
+-   **Key Concepts:** `Client-Side Routing`, `SPA`
 
 -   **Part 2: Mastering the State Design Process**
     -   Dives into best practices for structuring and managing complex application state.
     -   **Status:** ✅ Complete
-    -   **Key Concepts:** `State Design Patterns`, `State Colocation`, `useReducer`
+-   **Key Concepts:** `State Design Patterns`, `State Colocation`, `useReducer`
 
 -   **Part 3: Practicing Props and State Design**
     -   A practical session dedicated to reinforcing the concepts of component composition, prop drilling mitigation, and state colocation.
     -   **Status:** ✅ Complete
-    -   **Key Concepts:** `Component Composition`, `Prop Drilling Mitigation`, `State Colocation`
+-   **Key Concepts:** `Component Composition`, `Prop Drilling Mitigation`, `State Colocation`
 
 -   **Part 4: Making Navigation Reusable**
     -   Focuses on abstracting the routing logic to create a versatile, reusable navigation component that can be easily integrated across the application.
     -   **Status:** ✅ Complete
-    -   **Key Concepts:** `Reusable Components`, `Component Abstraction`, `Client-Side Routing`
-
+-   **Key Concepts:** `Reusable Components`, `Component Abstraction`, `Client-Side Routing`
 ---
 
 ## 🚀 How to Run a Project
