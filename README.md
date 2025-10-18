@@ -64,18 +64,18 @@ A two-part project that covers capturing user input with forms and then sending 
 ### 🗺️ 06 - [Routing and Advanced State Design](./06-routing-and-state-design/)
 A two-part module focusing on application architecture: first by building a custom client-side router, and then by exploring advanced state design patterns.
 
--   **Part 1: Custom Navigation and Routing**
-    -   Explores the core mechanics of building a router from scratch for a SPA experience.
-    -   **Status:** ✅ Complete
+-   **Part 1: Custom Navigation and Routing**
+    -   Explores the core mechanics of building a router from scratch for a SPA experience.
+    -   **Status:** ✅ Complete
 
--   **Part 2: Mastering the State Design Process**
-    -   Dives into best practices for structuring and managing complex application state.
-    -   **Status:** ✅ Complete
+-   **Part 2: Mastering the State Design Process**
+    -   Dives into best practices for structuring and managing complex application state.
+    -   **Status:** ✅ Complete
 
 -   **Part 3: Practicing Props and State Design**
     -   A practical session dedicated to reinforcing the concepts of component composition, prop drilling mitigation, and state colocation.
-    -   **Status:** ✅ Complete 
-    
+    -   **Status:** ✅ Complete
+    
 -   **Part 4: Making Navigation Reusable**
     -   Focuses on abstracting the routing logic to create a versatile, reusable navigation component that can be easily integrated across the application.
     -   **Status:** ✅ Complete
