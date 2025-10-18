@@ -79,7 +79,6 @@ A multi-part module focusing on application architecture: first by building a cu
 -   **Part 4: Making Navigation Reusable**
     -   Focuses on abstracting the routing logic to create a versatile, reusable navigation component that can be easily integrated across the application.
     -   **Status:** ✅ Complete
-
 -   **Key Concepts:** `Client-Side Routing`, `SPA`, `State Design Patterns`, `State Colocation`, `useReducer`, `Component Composition`, `Prop Drilling Mitigation`, `Reusable Components`, `Component Abstraction`
 ---
 
