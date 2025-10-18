@@ -39,6 +39,7 @@ A project that fetches, displays, and interacts with data from a third-party API
 -   **Key Concepts:** `useEffect`, `API Fetching`, `Async/Await`
 
 ---
+
 ### 🗂️ 05 - [Handling Forms & API Data](./05-forms-and-api-data/)
 A two-part project that covers capturing user input with forms and then sending that data to an API to be saved.
 
