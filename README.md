@@ -88,7 +88,12 @@ A multi-part module focusing on application architecture: first by building a cu
 -   **Part 5: Creating Portals with ReactDOM**
     -   Explores the use of React Portals to render children into a different part of the DOM tree, which is essential for components like modals, tooltips, and popovers.
     -   **Status:** ✅ Complete
-    -   **Key Concepts:** `React Portals`, `ReactDOM.createPortal()`, `Modal Implementation`, `DOM Structure Management`
+-   **Key Concepts:** `React Portals`, `ReactDOM.createPortal()`, `Modal Implementation`, `DOM Structure Management`
+
+-   **Part 6: Make a Feature-Full Data Table**
+    -   Focuses on building a complex data table component, including features like sorting, filtering, and pagination, to manage large datasets efficiently.
+    -   **Status:** ✅ Complete
+-   **Key Concepts:** `Data Table`, `Sorting`, `Filtering`, `Pagination`, `Performance Optimization`, `Custom Hooks`
 
 ---
 
