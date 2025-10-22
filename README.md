@@ -100,6 +100,11 @@ A multi-part module focusing on application architecture: first by building a cu
     -   **Status:** ✅ Complete
 -   **Key Concepts:** `Advanced Sorting Algorithms`, `useMemo for Performance`, `Dynamic State Management`, `Immutable Data Structures`
 
+-   **Part 8: Custom Hooks In Depth**
+    -   Delves deeper into creating, testing, and maintaining complex custom hooks for abstracting component logic and state management.
+    -   **Status:** ✅ Complete
+-   **Key Concepts:** `Custom Hooks`, `Logic Abstraction`, `Separation of Concerns`, `Testing Hooks`
+
 ---
 
 ## 🚀 How to Run a Project
