@@ -95,6 +95,11 @@ A multi-part module focusing on application architecture: first by building a cu
     -   **Status:** ✅ Complete
 -   **Key Concepts:** `Data Table`, `Sorting`, `Filtering`, `Pagination`, `Performance Optimization`, `Custom Hooks`
 
+-   **Part 7: Getting Clever with Data Sorting**
+    -   Focuses on implementing complex and performant sorting logic for large datasets, including multi-criteria and dynamic sorting.
+    -   **Status:** ✅ Complete
+-   **Key Concepts:** `Advanced Sorting Algorithms`, `useMemo for Performance`, `Dynamic State Management`, `Immutable Data Structures`
+
 ---
 
 ## 🚀 How to Run a Project
