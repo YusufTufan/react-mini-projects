@@ -105,6 +105,11 @@ A multi-part module focusing on application architecture: first by building a cu
     -   **Status:** ✅ Complete
 -   **Key Concepts:** `Custom Hooks`, `Logic Abstraction`, `Separation of Concerns`, `Testing Hooks`
 
+-   **Part 9: Into the World of Reducers**
+    -   A deep dive into the `useReducer` hook for managing more complex state logic that involves multiple related sub-values, providing a clean separation of concerns.
+    -   **Status:** ✅ Complete
+-   **Key Concepts:** `useReducer Hook`, `Action/Dispatch Pattern`, `State Management`, `Complex State Logic`
+
 ---
 
 ## 🚀 How to Run a Project
