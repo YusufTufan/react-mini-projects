@@ -34,6 +34,7 @@ Explores how to add interactivity to an application. This project shows how to m
 -   **Key Concepts:** `State`, `useState Hook`, `Event Handling`
 
 ---
+
 ### 🌐 04 - [Using an API with React](./04-using-an-api-with-react/)
 A project that fetches, displays, and interacts with data from a third-party API, covering asynchronous operations.
 -   **Key Concepts:** `useEffect`, `API Fetching`, `Async/Await`
@@ -61,6 +62,8 @@ A two-part project that covers capturing user input with forms and then sending 
     -   Explores advanced state and side-effect management with hooks like `useReducer`, `useCallback`, and custom hooks.
     -   **Status:** ✅ Complete
 -   **Key Concepts:** `Forms`, `API Requests`, `Context API`, `useState`, `useEffect`, `useReducer`, `useCallback`, `Custom Hooks`
+
+---
 
 ### 🗺️ 06 - [Routing and Advanced State Design](./06-routing-and-state-design/)
 A multi-part module focusing on application architecture: first by building a custom client-side router, then by exploring advanced state design patterns, and finally by perfecting component reusability.
@@ -109,6 +112,49 @@ A multi-part module focusing on application architecture: first by building a cu
     -   A deep dive into the `useReducer` hook for managing more complex state logic that involves multiple related sub-values, providing a clean separation of concerns.
     -   **Status:** ✅ Complete
 -   **Key Concepts:** `useReducer Hook`, `Action/Dispatch Pattern`, `State Management`, `Complex State Logic`
+
+---
+
+### ⚛️ 07 - [Redux Toolkit and Global State](./07-redux-toolkit-and-global-state/)
+
+This module introduces the modern, opinionated way of working with Redux using Redux Toolkit (RTK) to simplify state management and scale applications.
+
+-   **Part 1: Managing Multiple Slices with Redux Toolkit**
+    -   Focuses on configuring the Redux store, defining and combining multiple feature slices using `createSlice`, and handling cross-slice logic.
+    -   **Status:** ✅ Complete
+    -   **Key Concepts:** `Redux Toolkit (RTK)`, `configureStore`, `createSlice`, `Selectors`, `Global State Management`, `Provider`, `useSelector`, `useDispatch`
+
+---
+
+### 📡 08 - [API Interfacing with Async Thunks](./08-api-interfacing-with-async-thunks/)
+
+This module focuses on handling asynchronous operations, such as API calls, within Redux using the power of `createAsyncThunk` and the advanced capabilities of RTK Query.
+
+-   **Part 1: Interfacing with API's using Async Thunks**
+    -   Covers the creation of thunks for fetching data, dispatching pending/fulfilled/rejected actions, and updating the state based on the API response.
+    -   **Status:** ✅ Complete
+    -   **Key Concepts:** `createAsyncThunk`, `Thunks`, `Async Operations`, `API Calls`, `Pending/Fulfilled/Rejected Actions`, `Loading States`
+
+-   **Part 2: Modern Async with Redux Toolkit Query**
+    -   Focuses on defining API services using RTK Query, simplifying data fetching, caching, invalidation, and automated loading/error state management.
+    -   **Status:** ✅ Complete
+    -   **Key Concepts:** `RTK Query`, `createApi`, `Endpoints`, `Data Caching`, `Automatic Refetching`, `Mutation`, `Query Hooks`
+
+---
+
+### 🗺️ 09 - [Google Maps Clone with TypeScript](./09-maps-clone-with-typescript/)
+
+A practical, large-scale project focusing on building a dynamic mapping application using modern practices, strongly typed with TypeScript.
+
+-   **Part 1: Build a Google Maps Clone with TypeScript**
+    -   Covers integrating a mapping library (e.g., Google Maps API or Leaflet), managing map state (zoom, center), drawing markers, and defining interface types with TypeScript.
+    -   **Status:** ✅ Complete
+    -   **Key Concepts:** `TypeScript`, `Interfaces/Types`, `Mapping Libraries`, `React Hooks with TS`, `Third-Party Library Integration`, `Location Services`
+
+-   **Part 2: Navigation and Data Fetching with React Router**
+    -   Focuses on implementing advanced client-side routing, defining loaders for efficient data fetching based on URL parameters, and structuring the app's navigation flow.
+    -   **Status:** ✅ Complete
+    -   **Key Concepts:** `React Router DOM`, `Nested Routes`, `Loader Functions`, `useParams`, `useLoaderData`, `SPA Navigation`, `Data Hydration`
 
 ---
 
