@@ -1,21 +1,38 @@
-import type { Place } from "./api/Place";
-import { useState } from "react";
-import Map from "./components/Map";
-import LocationSearch from "./components/LocationSearch";
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import Root from "./pages/Root";
+import HomePage from "./pages/home/HomePage";
+import { homeLoader } from "./pages/home/homeLoader";
+import SearchPage from "./pages/search/SearchPage";
+import { searchLoader } from "./pages/search/searchLoader";
+import DetailsPage from "./pages/details/DetailsPage";
+import { detailsLoader } from "./pages/details/detailsLoader";
+
+const router = createBrowserRouter([
+  {
+    path: "/",
+    element: <Root />,
+    children: [
+      {
+        index: true,
+        element: <HomePage />,
+        loader: homeLoader,
+      },
+      {
+        path: "/search",
+        element: <SearchPage />,
+        loader: searchLoader,
+      },
+      {
+        path: "/packages/:name",
+        element: <DetailsPage />,
+        loader: detailsLoader,
+      },
+    ],
+  },
+]);
 
 function App() {
-  const [place, setPlace] = useState<Place | null>(null);
-
-  return (
-    <div className="h-screen w-screen grid grid-cols-12">
-      <div className="col-span-3 p-2">
-        <LocationSearch onPlaceClick={(p) => setPlace(p)} />
-      </div>
-      <div className="col-span-9">
-        <Map place={place} />
-      </div>
-    </div>
-  );
+  return <RouterProvider router={router} />;
 }
 
 export default App;
