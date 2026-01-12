@@ -182,3 +182,9 @@ Each project is a standalone application. To run one locally, follow these steps
     npm start
     ```
     The application will be running on `http://localhost:3000`.
+
+
+📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Copyright (c) 2025 YusufTufan
